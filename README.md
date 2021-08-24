@@ -1,6 +1,6 @@
 # What is this?
 
-Get perfect CoundDown Timer for all your events and programs.
+Get perfect Countdown Timer for all your events and programs.
 
 # Installation
 
