@@ -1,0 +1,23 @@
+{
+  "name": "countdown-for-all",
+  "version": "1.0.1",
+  "description": "countdown for all your events and programs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehtab2899/countdown-for-all.git"
+  },
+  "keywords": [
+    "countdown",
+    "timer"
+  ],
+  "author": "mehtab2899",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehtab2899/countdown-for-all/issues"
+  },
+  "homepage": "https://github.com/mehtab2899/countdown-for-all#readme"
+}
