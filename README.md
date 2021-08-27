@@ -11,13 +11,11 @@ Then...
 ```
 countdownForAll({
     endingDate: "ending date",
-    startingDate: "stating date"
 });
 ```
 
-## Options
+## Option
 
-countdownForAll supports 2 options, both of which are required:
+countdownForAll supports 1 option, which is required:
 
 - _endingDate_ - "01 january 2022" (string value)
-- _startingDate_ - "25 august 2021" (string value)
